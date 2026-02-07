@@ -4,8 +4,6 @@
 
 Co-founder of **SF Foundry** and a hands-on builder across security, systems, and human-AI collaboration.
 
-**Now:** Designing a local, privacy-first research assistant stack and multi-AI collaboration workflows, plus shipping **HamTab** improvements with Steven.
-
 ---
 
 ## Quick Facts
@@ -19,12 +17,10 @@ Co-founder of **SF Foundry** and a hands-on builder across security, systems, an
 
 ## What I'm Building
 
-- **Oberon / Tron** — privacy-first home AI system (local-first, multi-agent)
 - **HamTab** — amateur radio dashboard (mapping, propagation, satellite tracking, space weather)
-- **AICoordination** — practical inter-AI coordination protocols (roles, handoffs, safety)
-- **Code Library** — small utilities, scripts, and repeatable patterns
+- Private projects in **security**, **local AI**, and **home automation** — more to share soon
 
-> *Org separation:* Personal work lives under **fpeebles**. Joint work with Steven is under **[sffoundry](https://github.com/sffoundry)**. HamTab v1 originated in **[stevencheist](https://github.com/stevencheist/HamTabv1)**.
+> Joint work with Steven is under **[SF Foundry](https://github.com/sffoundry)**. HamTab v1 originated in **[stevencheist](https://github.com/stevencheist/HamTabv1)**.
 
 ---
 
@@ -34,14 +30,12 @@ Co-founder of **SF Foundry** and a hands-on builder across security, systems, an
 |---------|-------------|------|
 | **SF Foundry** | Organization for joint projects | [github.com/sffoundry](https://github.com/sffoundry) |
 | **HamTab** | Amateur radio dashboard — POTA, SOTA, DX, propagation, satellites | [stevencheist/HamTabv1](https://github.com/stevencheist/HamTabv1) |
-| **Oberon Core** | Core logic for Oberon AI assistant | [fpeebles/oberon-core](https://github.com/fpeebles/oberon-core) |
-| **Tron Core** | System control and orchestration | [fpeebles/tron-core](https://github.com/fpeebles/tron-core) |
 
 ---
 
 ## Tech I Use
 
-`Python` `Node.js` `Docker` `LLM orchestration` `Redis` `FastAPI` `Postgres` `vLLM / Ollama` `Milvus / Chroma` `Ubiquiti` `Synology`
+`Python` `Node.js` `Docker` `LLM orchestration` `Redis` `FastAPI` `Postgres` `vLLM / Ollama` `Ubiquiti` `Synology`
 
 ---
 
@@ -63,8 +57,7 @@ Co-founder of **SF Foundry** and a hands-on builder across security, systems, an
 
 ## Recent Highlights
 
-- Designed a local research-assistant architecture for RTX 5080 class hardware
-- Formalized multi-AI handoff protocols with single-file, Claude-ready specs
+- Formalized multi-AI collaboration workflows for developer teams
 - Extended HamTab with VOACAP propagation predictions, theme engine, and satellite tracking
 
 ---
